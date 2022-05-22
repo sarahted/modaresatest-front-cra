@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Front test - With CRA + external schedular library
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 I used a library that handles showing calendar with events 
